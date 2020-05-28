@@ -1,0 +1,27 @@
+{
+  "name": "boltpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonpaul108/boltPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonpaul108/boltPractice/issues"
+  },
+  "homepage": "https://github.com/jonpaul108/boltPractice#readme",
+  "dependencies": {
+    "@slack/bolt": "^2.0.1",
+    "axios": "^0.19.2",
+    "googleapis": "^39.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
